@@ -10,7 +10,6 @@ public class JavaExample50StringOperationPart1 {
     public static void main(String[] args) {
         
         
-        
         String s1;
         s1=new String("Hi there!!!!");
         
